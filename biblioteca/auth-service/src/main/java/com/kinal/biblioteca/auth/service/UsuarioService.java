@@ -6,7 +6,7 @@ import com.kinal.biblioteca.auth.dto.response.UsuarioResponse;
 
 import com.kinal.biblioteca.auth.entity.Usuario;
 import com.kinal.biblioteca.auth.repository.UsuarioRepository;
-import com.kinal.biblioteca.exception.ResourceNotFoundException;
+import com.kinal.biblioteca.auth.exception.ResourceNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
