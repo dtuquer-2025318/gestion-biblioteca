@@ -8,7 +8,7 @@ import com.kinal.biblioteca.auth.entity.Rol;
 import com.kinal.biblioteca.auth.entity.Usuario;
 import com.kinal.biblioteca.auth.repository.UsuarioRepository;
 import com.kinal.biblioteca.auth.security.JwtProvider;
-import com.kinal.biblioteca.exception.UserAlreadyExistsException;
+import com.kinal.biblioteca.auth.exception.UserAlreadyExistsException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
