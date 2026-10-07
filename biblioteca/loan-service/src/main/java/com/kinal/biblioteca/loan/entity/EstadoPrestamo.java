@@ -1,4 +1,7 @@
 package com.kinal.biblioteca.loan.entity;
 
-public class EstadoPrestamo {
+public enum EstadoPrestamo {
+    ACTIVO,
+    DEVUELTO,
+    CANCELADO
 }

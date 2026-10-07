@@ -1,4 +1,4 @@
-package com.kinal.biblioteca.loan.controller.dto.response;
+package com.kinal.biblioteca.loan.dto.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
