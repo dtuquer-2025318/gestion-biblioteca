@@ -1,4 +1,4 @@
-package com.kinal.biblioteca.exception;
+package com.kinal.biblioteca.auth.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
